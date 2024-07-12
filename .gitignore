@@ -27,14 +27,7 @@ yarn-error.log*
 # local env files
 .env*.local
 .env
-POSTGRES_URL="postgres://default:veKPNlT17rLI@ep-raspy-dream-a4ajhn91-pooler.us-east-1.aws.neon.tech:5432/verceldb?sslmode=require"
-POSTGRES_PRISMA_URL="postgres://default:veKPNlT17rLI@ep-raspy-dream-a4ajhn91-pooler.us-east-1.aws.neon.tech:5432/verceldb?sslmode=require&pgbouncer=true&connect_timeout=15"
-POSTGRES_URL_NO_SSL="postgres://default:veKPNlT17rLI@ep-raspy-dream-a4ajhn91-pooler.us-east-1.aws.neon.tech:5432/verceldb"
-POSTGRES_URL_NON_POOLING="postgres://default:veKPNlT17rLI@ep-raspy-dream-a4ajhn91.us-east-1.aws.neon.tech:5432/verceldb?sslmode=require"
-POSTGRES_USER="default"
-POSTGRES_HOST="ep-raspy-dream-a4ajhn91-pooler.us-east-1.aws.neon.tech"
-POSTGRES_PASSWORD="veKPNlT17rLI"
-POSTGRES_DATABASE="verceldb"
+
 
 # vercel
 .vercel
